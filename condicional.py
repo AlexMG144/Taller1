@@ -1,5 +1,5 @@
 saldo = 1000
-print("\t. :MENÚ:. ")
+print("\t. :MENÚ DEL CAJERO:. ")
 print("1. Ingrese dinero a la cuenta")
 print("2. Retire dinero de la cuenta")
 print("3. Mostrar dinero disponible")
